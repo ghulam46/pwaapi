@@ -1,6 +1,6 @@
 {
 "products" : [
-[{"id":1,"name":"Malabar squirrel","category":"Green"},
+{"id":1,"name":"Malabar squirrel","category":"Green"},
 {"id":2,"name":"Blue waxbill","category":"Yellow"},
 {"id":3,"name":"Coqui francolin","category":"Crimson"},
 {"id":4,"name":"Spotted hyena","category":"Puce"},
@@ -19,6 +19,6 @@
 {"id":17,"name":"White-eye, pale","category":"Pink"},
 {"id":18,"name":"Phalarope, northern","category":"Turquoise"},
 {"id":19,"name":"Trumpeter, dark-winged","category":"Purple"},
-{"id":20,"name":"Beisa oryx","category":"Fuscia"}]
+{"id":20,"name":"Beisa oryx","category":"Fuscia"}
 ]
 }
